@@ -1,0 +1,77 @@
+.Jumbotron {
+  padding-top: 6rem;
+  background-color: #0e1b26;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+h2 {
+  padding-bottom: 3rem;
+}
+
+#project {
+  padding-bottom: 5rem;
+  padding-top: 2rem;
+  margin-bottom: -1rem;
+}
+
+#contact {
+  padding-top: rem;
+  padding-bottom: 4rem;
+  margin-top: -5rem;
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 1rem;
+  background-color: aqua;
+  padding-top: 3rem;
+}
+
+#about {
+  padding-top: 7rem;
+  background-color: #0e1b26;
+  margin-bottom: 0;
+}
+
+#project {
+  margin-top: -2rem;
+  padding-top: 7rem;
+}
+
+.rounded-circle {
+  border: 3px solid #1da1f2;
+}
+
+#home {
+  background-color: #0e1b26;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+img {
+  border: 3px solid #0e1b26;
+  border-radius: 10px;
+}
+
+.carousel {
+  margin-top: -1rem;
+  width: 640px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.archivo-black-regular {
+  font-family: "Archivo Black", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lora {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: ;
+  font-style: normal;
+}
